@@ -1,1 +1,2 @@
-Live Site URL: [GitHub]([https://shaikkhaleelahmad.github.io/FrontendMentor-Challenge---Results-Summary-Component/](https://shaikkhaleelahmad.github.io/Portfolio/)https://shaikkhaleelahmad.github.io/Portfolio/)
+
+- Live Site URL: [GitHub](https://shaikkhaleelahmad.github.io/FrontendMentor-Challenge---Results-Summary-Component/)
